@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650737938 source:c:\users\ar274\desktop\codeblock projects\section 13\how to calculate hcf and lcm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650569318 source:c:\users\ar274\desktop\codeblock projects\section 13\a program to calculate the area of a circle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

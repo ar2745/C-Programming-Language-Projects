@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650558752 source:c:\users\ar274\desktop\codeblock projects\section 13\how to add complex numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
