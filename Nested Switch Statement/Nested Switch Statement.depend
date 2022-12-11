@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640460296 source:c:\users\ar274\desktop\codeblock projects\section 3\nested switch statement\code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
