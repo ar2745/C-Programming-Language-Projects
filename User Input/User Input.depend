@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640277539 source:c:\users\ar274\desktop\codeblock projects\user input\code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
