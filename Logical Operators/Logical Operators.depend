@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640355906 source:c:\users\ar274\desktop\codeblock projects\logical operators\code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
