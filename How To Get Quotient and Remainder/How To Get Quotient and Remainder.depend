@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650556188 source:c:\users\ar274\desktop\codeblock projects\section 13\how to get quotient and remainder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

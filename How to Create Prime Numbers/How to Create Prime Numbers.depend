@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650737049 source:c:\users\ar274\desktop\codeblock projects\section 13\how to create prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
