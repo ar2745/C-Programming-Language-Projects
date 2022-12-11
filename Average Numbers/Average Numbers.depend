@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649351211 source:c:\users\ar274\desktop\codeblock projects\section 5\average numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

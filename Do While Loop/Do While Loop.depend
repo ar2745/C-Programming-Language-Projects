@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649341815 source:c:\users\ar274\desktop\codeblock projects\section 4\do while loop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

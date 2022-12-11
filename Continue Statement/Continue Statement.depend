@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649343771 source:c:\users\ar274\desktop\codeblock projects\section 4\continue statement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
