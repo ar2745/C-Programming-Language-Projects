@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650557817 source:c:\users\ar274\desktop\codeblock projects\c programming language\section 13\how to swap 2 strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<malloc.h>
+
